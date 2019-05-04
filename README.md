@@ -1,4 +1,6 @@
-## `Stopping Spam JavaScript method` 
+## `Stopping Spam JavaScript Method` 
+
+### CODE BLOCK 1
 
 ```
 <script type="text/javascript">
@@ -10,6 +12,8 @@
 </script>
 
 ```
+
+### CODE BLOCK 2
 
 ```
 <script type="text/javascript">
